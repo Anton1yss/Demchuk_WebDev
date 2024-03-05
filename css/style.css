@@ -40,7 +40,7 @@ body {
     margin: 0 auto;
     justify-content: space-between;
     display: flex;
-    align-items: center; /* вирівнює все під одну лінію*/
+    align-items: center; 
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     font-size: 14px;
@@ -98,7 +98,7 @@ body {
 }
 
 .header_link_button_EN {
-    border: 1px solid white; /*tyt bylo white color */
+    border: 1px solid white;
     font-weight: 600;
     border-radius: 5px;
     padding: 7px 33px;
@@ -516,14 +516,14 @@ body {
     z-index: 2;
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
-    padding: 0; /* Reset default padding */
-    margin: 0; /* Reset default margin */
+    padding: 0; 
+    margin: 0; 
 }
 
 .emoji-rocket {
     width: 23px;
     height: 23px;
-    margin-left: 10px; /* Reset default margin */
+    margin-left: 10px;
     pointer-events: none;
 }
 
@@ -589,7 +589,7 @@ body {
     flex-wrap: wrap;
 }
 
-.html_lang, .css_lang, .js_lang, .react_lang, .node_lang, .mongo_lang, .figma, .git_techn {
+.html_lang, .css_lang, .js_lang, .react_lang, .node_lang, .mongo_lang, .figma, .git_techn, .ps {
     color: #030303;
     padding: 4px;
     background-color: #D9D9D9;
@@ -603,7 +603,7 @@ body {
     
 }
 
-.html, .css, .js, .react, .node, .mongo, .figma_logo, .git, .ps {
+.html, .css, .js, .react, .node, .mongo, .figma_logo, .git, .ps_logo {
     margin-right: 5px; 
     pointer-events: none;
 }
@@ -704,7 +704,7 @@ body {
     padding: 20px 25px;
     text-decoration: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     position: relative;
     gap: 60px;
