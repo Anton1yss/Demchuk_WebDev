@@ -516,10 +516,8 @@
     }
 
     .Glow_2 {
-        left: 20px;
+        left: -20px;
     }
-
-
 
     .port_header {
         padding: 0px 15px 9px;
@@ -576,10 +574,6 @@
 
     .Glow_6 {
         left: 900px;
-    }
-
-    .card-header {
-        font-size: 19px;
     }
 }
 
