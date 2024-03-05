@@ -550,7 +550,7 @@
         min-width: 250px;
         width: 100%;
         gap: 0;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .container_three {
