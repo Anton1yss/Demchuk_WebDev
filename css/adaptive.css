@@ -557,6 +557,10 @@
         left: 150px;
 
     }
+
+    .card-header  {
+        font-size: 20px;
+    }
     
     .click_here {
         display: none;
